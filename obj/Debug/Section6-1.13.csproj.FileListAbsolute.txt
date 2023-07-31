@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\bin\Debug\Section6-1.13.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\bin\Debug\Section6-1.13.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\bin\Debug\Section6-1.13.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\obj\Debug\Section6-1.13.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\obj\Debug\Section6-1.13.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\obj\Debug\Section6-1.13.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\obj\Debug\Section6-1.13.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section6-1.13\Section6-1.13\obj\Debug\Section6-1.13.pdb
